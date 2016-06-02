@@ -18,6 +18,7 @@
 		background: url("../img/banner.jpg") no-repeat;
 		min-height: 335px;
 		background-size: cover;
+		background-position: top;
 	}
 }
 .logo-img{
@@ -57,7 +58,6 @@
 	&__items-wrap{
 		padding: 10px 25px 0 25px;
 		margin-top: -50px;
-		width: 780px;
 		max-height: 320px;
 		background: #fff;
 		display: inline-block;
